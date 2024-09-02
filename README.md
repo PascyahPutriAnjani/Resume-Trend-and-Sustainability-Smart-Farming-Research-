@@ -25,7 +25,7 @@ Kondisi di Indonesia :
 1.	Harga beberapa komoditas pangan seperti jagung, gandum dan kedelai terus naik karena stok menipis.
 2.	Harga BBM jenis pertamax dinaikkan
    
-	Negara Indonesia adalah negara agraris, tetapi ketahanan pangan di tahun 2020 Indonesia di peringkat 59. 
+Negara Indonesia adalah negara agraris, tetapi ketahanan pangan di tahun 2020 Indonesia di peringkat 59. 
 Padahal jika dibandingkan dengan negara Malaysia, Singapura dan lainnya luas negara Indonesia lebih besar. 
 Tapi ketahanan pangan nya dibawah negara-negara itu. Hasil pertanian di negara Indonesia cenderung turun sekarang kebanyakan buah, padi impor  dari negara lain yang padahal Indonesia memiliki luas lahan yang besar.
 Sekarang banyak generasi muda yang tidakberminat jadi petani karena panas dan kotor-kotoran tapi sebagai orang komputer yang bisa memanfaatkan teknologi yang dilakukan secara otomatis tidak perlu panas dan kotor-kotoran.
