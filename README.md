@@ -1,18 +1,20 @@
 Kuliah Umum oleh :
-Narasumber : Dr. Hanif Fakhrurroja, S.Si., M.T 
+
+Narasumber : Dr. Hanif Fakhrurroja, S.Si., M.T                         
 Hari, tanggal : Senin, 26 Agustus 2024
 Tempat : Lantai 7 Gedung Diklat Kampus Palembang
 
 Resume Kuliah Umum dibuat oleh :
-Nama : Pascyah Putri Anjani	
-NIM : 09030280428025
+Nama : Pascyah Putri Anjani	       
+NIM : 09030280428025                 
 Kelas : TK.1A
 
-“Trend and Sustainability : Smart Farming Research”	
-•	IoT dalam Riset Smart Farming
-•	Data Science dalam Riset Smart Farming
+“Trend and Sustainability : Smart Farming Research”	              
+•	IoT dalam Riset Smart Farming.       
+•	Data Science dalam Riset Smart Farming.                         
 •	Artifical Intelligence dalam Riset Smart Farming
-	Perkembangan dari tahun ke tahun, dunia diprediksikan tahun 2050 ini sekitar  10 milyar : 68% di kota sisanya 32% di desa. 
+	
+ Perkembangan dari tahun ke tahun, dunia diprediksikan tahun 2050 ini    sekitar  10 milyar : 68% di kota sisanya 32% di desa.       
 Tetapi yang terjadi jumlah penduduknya hampir  10 milyar tetapi jumlah luas pangan makin hilang. Hilang sama perkotaan, hilang sama pembangunan juga faktor adanya perubahan alam yang menyebabkan gagal panen dan lainnya.
 
 Penyebab Krisis Pangan di Dunia :
