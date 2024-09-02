@@ -4,7 +4,7 @@ Narasumber : Dr. Hanif Fakhrurroja, S.Si., M.T
 Hari, tanggal : Senin, 26 Agustus 2024
 Tempat : Lantai 7 Gedung Diklat Kampus Palembang
 
-Resume Kuliah Umum dibuat oleh :
+Resume Kuliah Umum dibuat oleh :       
 Nama : Pascyah Putri Anjani	       
 NIM : 09030280428025                 
 Kelas : TK.1A
