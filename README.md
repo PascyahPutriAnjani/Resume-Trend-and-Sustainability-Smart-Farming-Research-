@@ -15,6 +15,8 @@ Kelas : TK.1A
 •	Artifical Intelligence dalam Riset Smart Farming
 	
  Perkembangan dari tahun ke tahun, dunia diprediksikan tahun 2050 ini    sekitar  10 milyar : 68% di kota sisanya 32% di desa.       
+ ![image](https://github.com/user-attachments/assets/286eee46-3d3e-4d24-b294-da9d75a3816c)
+
 Tetapi yang terjadi jumlah penduduknya hampir  10 milyar tetapi jumlah luas pangan makin hilang. Hilang sama perkotaan, hilang sama pembangunan juga faktor adanya perubahan alam yang menyebabkan gagal panen dan lainnya.
 
 Penyebab Krisis Pangan di Dunia :
