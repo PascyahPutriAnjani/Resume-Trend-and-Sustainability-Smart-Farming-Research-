@@ -14,7 +14,8 @@ Kelas : TK.1A
 •	Data Science dalam Riset Smart Farming
 •	Artifical Intelligence dalam Riset Smart Farming
 
-	Perkembangan dari tahun ke tahun, dunia diprediksikan tahun 2050 ini sekitar  10 milyar : 68% di kota sisanya 32% di desa.Tetapi yang terjadi jumlah penduduknya hampir  10 milyar tetapi jumlah luas pangan makin hilang. Hilang sama perkotaan, hilang sama pembangunan juga faktor adanya perubahan alam yang menyebabkan gagal panen dan lainnya.
+	Perkembangan dari tahun ke tahun, dunia diprediksikan tahun 2050 
+ ini sekitar  10 milyar : 68% di kota sisanya 32% di desa.Tetapi yang terjadi jumlah penduduknya hampir  10 milyar tetapi jumlah luas pangan makin hilang. Hilang sama perkotaan, hilang sama pembangunan juga faktor adanya perubahan alam yang menyebabkan gagal panen dan lainnya.
 Penyebab Krisis Pangan di Dunia :
 1.	Pandemi covid-19
 2.	Perang Rusia dan Ukraina
